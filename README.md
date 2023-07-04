@@ -1,6 +1,7 @@
-### Hi there 👋
+### print("Hello World")
 
-- 🌱 I’m currently learning Machine Learning and Python
+💻 Aprendizado de Máquina e Visão Computacional
+🎓 Graduanda em Engenharia de Software pela FIAP 
 
 
 Tools and Technologies:
