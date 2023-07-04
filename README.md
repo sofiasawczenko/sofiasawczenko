@@ -10,14 +10,8 @@
 <ul>
           <li>💻 Aprendizado de Máquina e Visão Computacional</li>
           <li>🎓 Graduanda em Engenharia de Software pela FIAP</li>
-</ul>
+</ul>     
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&layout=compact)
-
-<ul>
-          <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" width="40" height="40"/></p>/>
-
-</ul>        
-
-
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&layout=compact&langs_count=8&theme=radical"/>
+</div>
