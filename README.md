@@ -10,5 +10,5 @@
   <li>🎓 Graduanda em Engenharia de Software pela FIAP</li>
 </ul>     
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&layout=compact&langs_count=8&theme=dracula"width="200" height="200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&layout=compact&langs_count=8&theme=dracula"width="300" height="300"/>
 </div>
