@@ -6,6 +6,6 @@
   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="144" height="80" />
 </div>
 <ul>
-  <li>💻 Dados e Aprendizado de Máquina</li>
+  <li>💻 Aqui você encontra de tudo</li>
   <li>🎓 Graduanda em Engenharia de Software pela FIAP</li>
 </ul>     
