@@ -1,5 +1,5 @@
 ### Me chamo Sofia e bem vindo(a) ao meu Github
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sofiasawczenko)](https://github.com/sofiasawczenko/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiasawczenko&show_icons=true&theme=radical)
 <div>
   <a href = "mailto:sofiawko@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sofia-sawczenko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank"></a>   
