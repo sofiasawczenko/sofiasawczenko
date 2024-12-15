@@ -1,6 +1,7 @@
 <h2 align="left">Me chamo Sofia e bem vindo(a) ao meu Github.</h2>
 
 ###
+<img align="right" height="150" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 ![](https://komarev.com/ghpvc/?username=sofiasawczenko&color=006bed)
 
 ## Sobre mim
