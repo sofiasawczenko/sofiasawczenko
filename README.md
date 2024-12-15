@@ -10,9 +10,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Enhenharia de Software na FIAP.
+- 💼 Trabalhando como Desenvolvedora de Software na Johnson&Johnson.
+- 🌱 Aprendendo mais sobre dados.
 
 ## Minhas Skills
 
