@@ -12,7 +12,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Enhenharia de Software na FIAP.
 - 💼 Trabalhando como Desenvolvedora de Software na Johnson&Johnson.
-- 🌱 Aprendendo mais sobre dados.
+- 🌱 Aprendendo mais sobre o mundo dos Dados & IA.
 
 ## Minhas Skills
 
