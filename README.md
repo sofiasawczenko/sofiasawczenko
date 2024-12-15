@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
+<!-- <img align="right" height="150" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" /> -->
 
 ## Sobre mim
 
