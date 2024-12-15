@@ -15,35 +15,44 @@
 
 ## Minhas Skills
 
-**Front-End**
+**Aplicações e dados**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components&logoColor=DB7093)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-**Back-End**
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+**Utilidades**
 
-**Prototyping/UX**
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**Architecture**
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google-cloud)
 
-**Database**
-![SQL](https://img.shields.io/badge/-SQL%20(Oracle)-333333?style=flat&logo=oracle)
+**Ferramentas de desenvolvimento**
 
-**Agile Methodologies**
-![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=kanban)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+**Metodologias Ágeis**
+
+![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat)
 ![PDCA](https://img.shields.io/badge/-PDCA-333333?style=flat)
 ![Kaizen](https://img.shields.io/badge/-Kaizen-333333?style=flat)
 
 **Idiomas**
+
 ![English](https://img.shields.io/badge/-English%20(Proficient)-333333?style=flat)
 ![Spanish](https://img.shields.io/badge/-Spanish%20(Proficient)-333333?style=flat)
 
