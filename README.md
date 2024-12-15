@@ -15,7 +15,7 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Aplicações Web e Dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
