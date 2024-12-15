@@ -1,4 +1,7 @@
-### Me chamo Sofia e bem vindo(a) ao meu Github
+<h2 align="left">Me chamo Sofia e bem vindo(a) ao meu Github.</h2>
+
+###
+
 <div>
   <a href = "mailto:sofiawko@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sofia-sawczenko" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" target="_blank"></a>   
@@ -11,18 +14,10 @@
 </ul>     
 
 
-<h2 align="left">Hi 👋! My name is Sofia and I'm a Software Engineering student, from Brazil.</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiasawczenko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 
 ###
 
