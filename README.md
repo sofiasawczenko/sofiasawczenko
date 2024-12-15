@@ -47,7 +47,6 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
@@ -57,6 +56,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-sawczenko/)](https://www.linkedin.com/in/sofia-sawczenko/)
+[![Gmail Badge](https://img.shields.io/badge/-sofiawko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:sofiawko@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/sofiasawczenko?label=follow&style=social)](LINK-DO-SEU-GITHUB)
