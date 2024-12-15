@@ -48,12 +48,8 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
 <a href="https://github.com/sofiasawczenko" title="Perfil da Sofia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiasawczenko&theme=dracula&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
 ## Onde me encontrar
