@@ -46,11 +46,14 @@
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
 
-**Development Tools**
+## Development Tools
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=intellij-idea&logoColor=2C2255)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=F9AB00)
+![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=pycharm&logoColor=000000)
+
 
 <br/>
 
