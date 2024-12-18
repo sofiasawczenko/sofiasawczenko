@@ -9,8 +9,8 @@
 ## About Me
 
 - 🤔 Passionate about exploring data and transforming information into practical solutions.
-- 🎓 Studying Software Engineering at FIAP, focusing on Data and Artificial Intelligence.
-- 💼 Working as a Software Developer at Johnson & Johnson, with experience in data analysis.
+- 🎓 Studying Software Engineering at FIAP, focusing on Data.
+- 💼 Working as a Software Developer at Johnson & Johnsons.
 - 🌱 Always striving to learn more about Data Science, Data Engineering, and AI.
 
 ## My Skills
