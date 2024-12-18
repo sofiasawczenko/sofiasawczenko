@@ -47,17 +47,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 
-**Metodologias Ágeis**
-
-![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat)
-![PDCA](https://img.shields.io/badge/-PDCA-333333?style=flat)
-![Kaizen](https://img.shields.io/badge/-Kaizen-333333?style=flat)
-
-**Idiomas**
-
-![English](https://img.shields.io/badge/-English%20(Proficient)-333333?style=flat)
-![Spanish](https://img.shields.io/badge/-Spanish%20(Proficient)-333333?style=flat)
 
 <br/>
 
