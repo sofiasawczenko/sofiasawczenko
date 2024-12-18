@@ -35,7 +35,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=keras&logoColor=D00000)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=pytorch&logoColor=EE4C2C)
 
-## Web Development
+**Web Development**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5&logoColor=E34F26)
@@ -50,7 +50,7 @@
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
 
-## Development Tools
+**Development Tools**
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
