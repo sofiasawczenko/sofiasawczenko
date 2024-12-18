@@ -13,11 +13,11 @@
 - 💼 Working as a Software Developer at Johnson & Johnsons.
 - 🌱 Always striving to learn more about Data Science, Data Engineering, and AI.
 
+## My Skills
+
 <a href="https://github.com/sofiasawczenko" title="Sofia's Profile">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
-
-## My Skills
 
 **Data Analysis**
 
