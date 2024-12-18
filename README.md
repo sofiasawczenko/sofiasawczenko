@@ -1,4 +1,4 @@
-<h2 align="left">Me chamo Sofia e bem-vindo(a) ao meu Github.</h2>
+<h2 align="left">My name is Sofia, and welcome to my GitHub.</h2>
 
 ###
 
@@ -6,55 +6,59 @@
 
 ###
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na FIAP.
-- 💼 Trabalhando como Desenvolvedora de Software na Johnson & Johnson.
-- 🌱 Aprendendo mais sobre o mundo dos Dados & IA.
+- 🤔 Passionate about exploring data and transforming information into practical solutions.
+- 🎓 Studying Software Engineering at FIAP, focusing on Data and Artificial Intelligence.
+- 💼 Working as a Software Developer at Johnson & Johnson, with experience in data analysis.
+- 🌱 Always striving to learn more about Data Science, Machine Learning, and AI.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações Web**
+**Data Analysis**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-FFFFFF?style=flat&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=003366)
+![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=seaborn&logoColor=2377B7)
+![SciPy](https://img.shields.io/badge/-SciPy-FFFFFF?style=flat&logo=scipy&logoColor=8CA1AF)
 
-**Dados**
+**Machine Learning & AI**
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=tensorflow&logoColor=FF6F00)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-FFFFFF?style=flat&logo=scikit-learn&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=keras&logoColor=D00000)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=pytorch&logoColor=EE4C2C)
 
-**DevOps**
+## Web Development
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google-cloud)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-FFFFFF?style=flat&logo=styled-components&logoColor=DB7093)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=7952B3)
 
-**Ferramentas de desenvolvimento**
+**DevOps & Version Control**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
+![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=2496ED)
 
+**Development Tools**
+
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=intellij-idea&logoColor=2C2255)
 
 <br/>
 
-<a href="https://github.com/sofiasawczenko" title="Perfil da Sofia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<a href="https://github.com/sofiasawczenko" title="Sofia's Profile">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-sofiasawczenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-sawczenko/)](https://www.linkedin.com/in/sofia-sawczenko/)
 [![Gmail Badge](https://img.shields.io/badge/-sofiawko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofiawko@gmail.com)](mailto:sofiawko@gmail.com)
