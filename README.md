@@ -11,7 +11,7 @@
 - 🤔 Passionate about exploring data and transforming information into practical solutions.
 - 🎓 Studying Software Engineering at FIAP, focusing on Data and Artificial Intelligence.
 - 💼 Working as a Software Developer at Johnson & Johnson, with experience in data analysis.
-- 🌱 Always striving to learn more about Data Science, Machine Learning, and AI.
+- 🌱 Always striving to learn more about Data Science, Data Engineering, and AI.
 
 ## My Skills
 
@@ -39,12 +39,12 @@
 ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-FFFFFF?style=flat&logo=styled-components&logoColor=DB7093)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-FFFFFF?style=flat&logo=tailwind-css&logoColor=38B2AC)
 
 **DevOps & Version Control**
 
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=2496ED)
 
 **Development Tools**
 
