@@ -20,17 +20,9 @@
 </a>
 
 **Data Engineering**
+
 ![Google Cloud](https://img.shields.io/badge/-GCP-FFFFFF?style=flat&logo=GCP&logoColor=3776AB)
 ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)
-[Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-blue.svg)
-Cloud composer
-Cloud Data Fusion
-cloud storage
-cloud functions
-dataflow
-Big query
-looker
-
 
 **Data Analysis**
 
