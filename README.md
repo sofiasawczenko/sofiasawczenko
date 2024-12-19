@@ -10,7 +10,7 @@
 
 - 🤔 Passionate about exploring data and transforming information into practical solutions.
 - 🎓 Studying Software Engineering at FIAP, focusing on Data.
-- 💼 Working as a Software Developer at Johnson & Johnsons.
+- 💼 Working as a Software Developer at Johnson & Johnson.
 - 🌱 Always striving to learn more about Data Science, Data Engineering, and AI.
 
 ## My Skills
@@ -18,6 +18,20 @@
 <a href="https://github.com/sofiasawczenko" title="Sofia's Profile">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
+
+**Data Engineering**
+Google Cloud
+python
+[Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-blue.svg)
+Cloud composer
+Cloud Data Fusion
+cloud storage
+cloud functions
+dataflow
+Big query
+looker
+
+
 
 **Data Analysis**
 
@@ -53,14 +67,12 @@
 **Development Tools**
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=intellij-idea&logoColor=2C2255)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=F9AB00)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=pycharm&logoColor=000000)
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-sofiasawczenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-sawczenko/)](https://www.linkedin.com/in/sofia-sawczenko/)
