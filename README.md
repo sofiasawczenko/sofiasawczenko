@@ -21,24 +21,19 @@
 
 **Data Engineering**
 
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
-**Data Analysis**
+**Data Processing**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/-NumPy-FFFFFF?style=flat&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=003366)
-![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=seaborn&logoColor=2377B7)
-![SciPy](https://img.shields.io/badge/-SciPy-FFFFFF?style=flat&logo=scipy&logoColor=8CA1AF)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 
-**Machine Learning & AI**
+**Data Visualization**
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat&logo=tensorflow&logoColor=FF6F00)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-FFFFFF?style=flat&logo=scikit-learn&logoColor=F7931E)
-![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=keras&logoColor=D00000)
-![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=pytorch&logoColor=EE4C2C)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+
 
 **Web Development (focused on Front-End)**
 
@@ -58,10 +53,10 @@
 **Development Tools**
 
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-FFFFFF?style=flat&logo=jupyter&logoColor=F37626)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-FFFFFF?style=flat&logo=intellij-idea&logoColor=2C2255)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=F9AB00)
-![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=pycharm&logoColor=000000)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
 <br/>
