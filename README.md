@@ -20,8 +20,8 @@
 </a>
 
 **Data Engineering**
-Google Cloud
-python
+![Google Cloud](https://img.shields.io/badge/-GCP-FFFFFF?style=flat&logo=GCP&logoColor=3776AB)
+![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)
 [Cloud Composer](https://img.shields.io/badge/Cloud%20Composer-blue.svg)
 Cloud composer
 Cloud Data Fusion
@@ -30,7 +30,6 @@ cloud functions
 dataflow
 Big query
 looker
-
 
 
 **Data Analysis**
@@ -49,7 +48,7 @@ looker
 ![Keras](https://img.shields.io/badge/-Keras-FFFFFF?style=flat&logo=keras&logoColor=D00000)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FFFFFF?style=flat&logo=pytorch&logoColor=EE4C2C)
 
-**Web Development**
+**Web Development (focused on Front-End)**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5&logoColor=E34F26)
