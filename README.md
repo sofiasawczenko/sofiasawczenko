@@ -60,6 +60,7 @@
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
 <br/>
+
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-sofiasawczenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-sawczenko/)](https://www.linkedin.com/in/sofia-sawczenko/)
