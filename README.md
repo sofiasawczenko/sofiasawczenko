@@ -21,12 +21,12 @@
 
 **Data Engineering**
 
-![Google Cloud](https://img.shields.io/badge/-GCP-FFFFFF?style=flat&logo=GCP&logoColor=3776AB)
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 **Data Analysis**
 
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python&logoColor=3776AB)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-FFFFFF?style=flat&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=matplotlib&logoColor=003366)
@@ -42,18 +42,18 @@
 
 **Web Development (focused on Front-End)**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFFFFF?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-FFFFFF?style=flat&logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-FFFFFF?style=flat&logo=styled-components&logoColor=DB7093)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-FFFFFF?style=flat&logo=tailwind-css&logoColor=38B2AC)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
 **DevOps & Version Control**
 
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=181717)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 
 **Development Tools**
 
@@ -62,6 +62,7 @@
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-FFFFFF?style=flat&logo=googlecolab&logoColor=F9AB00)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-FFFFFF?style=flat&logo=pycharm&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 
 <br/>
 ## Where to find me
