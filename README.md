@@ -10,7 +10,6 @@
 
 - 🤔 Passionate about bringing solution to problems.
 - 🎓 Studying Software Engineering at FIAP. 
-- 💼 Working as a Software Developer at Johnson & Johnson.
 
 ## My Skills
 
