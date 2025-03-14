@@ -2,7 +2,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=sofiasawczenko&color=006bed)
+![](https://komarev.com/ghpvc/?username=sofiasawczenko&color=006bed)   
 
 ###
 
