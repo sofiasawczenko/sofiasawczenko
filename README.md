@@ -8,8 +8,8 @@
 
 ## About Me
 
-- 🤔 Passionate about bringing solution to problems.
-- 🎓 Studying Software Engineering at FIAP. 
+- Passionate about bringing solution to real problems.
+- Studying Software Engineering at FIAP. 
 
 ## My Skills
 
