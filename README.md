@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiasawczenko&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </a>
 
+
 **AI**
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
@@ -62,6 +63,7 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
 **Database**
+
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 
