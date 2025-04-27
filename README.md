@@ -1,6 +1,16 @@
-<h2 align="left">My name is Sofia, and welcome to my GitHub.</h2>
+<h2 align="left">Hi, I'm Sofia — welcome to my GitHub!</h2>
 
 ###
+
+## Experience
+I'm currently diving into the world of Data Science. Here are a few highlights from my journey so far:
+
+## Volunteer Work
+Mentor at **Programadoras de Vidas for Girls**, where I help high school girls explore and learn about technology.
+
+## Let's Connect!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sofia-sawczenko/) — I'd love to connect!
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=sofiasawczenko&color=006bed)   -->
 
@@ -74,4 +84,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-sofiasawczenko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-sawczenko/)](https://www.linkedin.com/in/sofia-sawczenko/)
 [![Gmail Badge](https://img.shields.io/badge/-sofiawko@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofiawko@gmail.com)](mailto:sofiawko@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/sofiasawczenko?label=follow&style=social)](https://github.com/sofiasawczenko)
+[![GitHub](https://img.shields.io/github/followers/sofiasawczenko?label=follow&style=social)](https://github.com/sofiasawczenko)  -->
+
