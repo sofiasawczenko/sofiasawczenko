@@ -1,6 +1,5 @@
 <h2 align="left">Hi, I'm Sofia — welcome to my GitHub!</h2>
 
-**Let's Connect!**
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sofia-sawczenko/) — I'd love to connect!
 
 
