@@ -12,7 +12,7 @@ Mentor at **Programadoras de Vidas for Girls**, where I help high school girls e
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sofia-sawczenko/) — I'd love to connect!
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=sofiasawczenko&color=006bed)   -->
+<!-- ![](https://komarev.com/ghpvc/?username=sofiasawczenko&color=006bed)  
 
 ###
 
