@@ -3,7 +3,7 @@
 ###
 
 ### Experience
-I'm currently diving into the world of Data Science. Here are a few highlights from my journey so far:
+I'm currently diving into the world of Data Science. 
 
 ### Volunteer Work
 Mentor at **Programadoras de Vidas for Girls**, where I help high school girls explore and learn about technology.
