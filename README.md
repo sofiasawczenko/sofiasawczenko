@@ -2,13 +2,13 @@
 
 ###
 
-## Experience
+### Experience
 I'm currently diving into the world of Data Science. Here are a few highlights from my journey so far:
 
-## Volunteer Work
+### Volunteer Work
 Mentor at **Programadoras de Vidas for Girls**, where I help high school girls explore and learn about technology.
 
-## Let's Connect!
+### Let's Connect!
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sofia-sawczenko/) — I'd love to connect!
 
 
